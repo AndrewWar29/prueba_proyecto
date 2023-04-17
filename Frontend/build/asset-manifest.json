@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.120767dc.css",
+    "main.js": "/static/js/main.f7fba0d6.js",
+    "static/js/787.29dd869d.chunk.js": "/static/js/787.29dd869d.chunk.js",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/uai.jpeg": "/static/media/uai.d3cd357c6208b39906c4.jpeg",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/foto_uai_penalolen2.jpg": "/static/media/foto_uai_penalolen2.a2542b96ac910ccda410.jpg",
+    "static/media/Foto_practica.jpg": "/static/media/Foto_practica.fe8f5f5b1b0a7f6f1a3c.jpg",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/Foto_stock_1.jpg": "/static/media/Foto_stock_1.af2400b4a9aa6f3ec8c6.jpg",
+    "static/media/logo.svg": "/static/media/logo.48ffa03f0fac46117a5b975fba4bf1cb.svg",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/index.html",
+    "main.120767dc.css.map": "/static/css/main.120767dc.css.map",
+    "main.f7fba0d6.js.map": "/static/js/main.f7fba0d6.js.map",
+    "787.29dd869d.chunk.js.map": "/static/js/787.29dd869d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.120767dc.css",
+    "static/js/main.f7fba0d6.js"
+  ]
+}
