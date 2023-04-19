@@ -77,12 +77,12 @@ WSGI_APPLICATION = 'backend.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'prueba',
+        'NAME': 'database',
         'USER': 'root',
-        'PASSWORD': '',
-        'HOST': '127.0.0.1',
-        'PORT':'3306',
-        }
+        'PASSWORD': 'root',
+        'HOST': 'db', # You are supposed to use service name not localhost
+        'PORT': '3306',
+    }
 }
 
 
